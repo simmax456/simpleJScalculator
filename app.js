@@ -8,7 +8,7 @@ const operator = prompt('Enter operator ( +, -, * or / ): '),
       firstNum = parseFloat(prompt('Enter first number: ')),
       secondNum = parseFloat(prompt('Enter second number: '));
 
-let result, buffer;
+let result;
 
 // calculation operations
 if (operator == '+') {

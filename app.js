@@ -24,7 +24,7 @@ else if (operator == '/') {
     result = firstNum / secondNum;
 }
 else {
-    prompt("Invalid operator")
+    alert("Invalid operator")
 }
 
 // display the result
